@@ -1,4 +1,4 @@
-# M5ColoRover
+# M5ColoRRover
 A piece of code used to guide an M5RoverC Pro towards a destination.
 
 # Hardware/Software requirements 
